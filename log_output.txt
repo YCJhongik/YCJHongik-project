@@ -1,0 +1,68 @@
+[rnooyaho] Fri Jun 3 02:11:57 2022 +0900 대문자소문자 수정 16efdad
+[rnooyaho] Fri Jun 3 01:58:06 2022 +0900 다이어그램 수정 c5fdf97
+[rnooyaho] Fri Jun 3 01:38:03 2022 +0900 다이어그램 수정 15de355
+[Ryu-minji] Fri Jun 3 00:50:23 2022 +0900 함수 추가 803ebcc
+[Ryu-minji] Fri Jun 3 00:50:06 2022 +0900 함수 추가 c0e2f01
+[Ryu-minji] Fri Jun 3 00:49:49 2022 +0900 Delete UI.cpp be8e68f
+[Ryu-minji] Fri Jun 3 00:49:36 2022 +0900 Delete UI.h 64f7e5c
+[rnooyaho] Thu Jun 2 23:28:32 2022 +0900 Merge branch 'main' of https://github.com/rnooyaho/SE 900044f
+[rnooyaho] Thu Jun 2 23:27:54 2022 +0900 과제3 정지환 다이어그램 832cf76
+[Ryu-minji] Thu Jun 2 23:22:28 2022 +0900 사용해본 입출력 파일 dd970fa
+[Ryu-minji] Thu Jun 2 23:19:50 2022 +0900 합쳐서 판매, 구매 부분 다듬은 코드 560dcb2
+[rnooyaho] Thu Jun 2 05:34:55 2022 +0900 Merge branch 'main' of https://github.com/rnooyaho/SE cb304b5
+[Ryu-minji] Thu Jun 2 03:09:46 2022 +0900 3개 합친 코드 rmj e9bf4d3
+[rnooyaho] Thu Jun 2 03:09:30 2022 +0900 Merge branch 'main' of https://github.com/rnooyaho/SE d629675
+[Ryu-minji] Thu Jun 2 03:06:55 2022 +0900 3개 합친 코드 -rmj 8d6e2c4
+[Ryu-minji] Thu Jun 2 03:03:52 2022 +0900 Merge branch 'main' of https://github.com/rnooyaho/SE pull# the commit. eced8c8
+[rnooyaho] Wed Jun 1 20:49:42 2022 +0900 Merge branch 'main' of https://github.com/rnooyaho/SE a792ec8
+[“YCJhongik”] Wed Jun 1 20:47:49 2022 +0900 과제 3 통합본 YCJ 96c2e09
+[rnooyaho] Wed Jun 1 18:36:07 2022 +0900 jjh source 5b8a58c
+[rnooyaho] Wed Jun 1 12:52:58 2022 +0900 Merge branch 'main' of https://github.com/rnooyaho/SE 71d2a90
+[“YCJhongik”] Wed Jun 1 06:43:22 2022 +0900 과제 3 6/1일 수정본 YCJ 197d4d2
+[Ryu-minji] Tue May 31 21:49:40 2022 +0900 client로 합친 버전-유민지 158b90a
+[“YCJhongik”] Tue May 31 12:36:20 2022 +0900 폴더로는 master브랜치확인해주세요YCJ fe6f47c
+[Ryu-minji] Mon May 30 18:35:36 2022 +0900 유민지 코드 0530 -(2) 342cdf7
+[Ryu-minji] Mon May 30 03:06:15 2022 +0900 유민지 수정 코드 0530 859aad6
+[Ryu-minji] Mon May 30 00:18:05 2022 +0900 Delete code_RMJ directory bb18135
+[Ryu-minji] Sun May 29 19:27:12 2022 +0900 유민지 코드0529 - 2 9648acb
+[Ryu-minji] Sun May 29 08:46:58 2022 +0900 유민지 코드 모음 0529 dd54b56
+[rnooyaho] Wed May 18 21:13:18 2022 +0900 정지환다이어그램 최종 수정 df3300f
+[“YCJhongik”] Wed May 18 21:02:33 2022 +0900 과제 2 레포트 0cd3c70
+[rnooyaho] Wed May 18 19:15:47 2022 +0900 Merge branch 'main' of https://github.com/rnooyaho/SE 71275fb
+[rnooyaho] Wed May 18 19:15:00 2022 +0900 클래스다이어그램 추가 1c1bdb4
+[Ryu-minji] Wed May 18 19:12:02 2022 +0900 유민지 다이어그램 모음 da00d7b
+[rnooyaho] Wed May 18 19:11:49 2022 +0900 Merge branch 'main' of https://github.com/rnooyaho/SE 9c3795f
+[Ryu-minji] Wed May 18 19:11:29 2022 +0900 유민지 class diagram communication diagram 699e41f
+[rnooyaho] Wed May 18 18:58:27 2022 +0900 클래스다이어그램 추가 5190862
+[rnooyaho] Wed May 18 18:56:50 2022 +0900 Merge branch 'main' of https://github.com/rnooyaho/SE 18cc710
+[“YCJhongik”] Wed May 18 18:36:14 2022 +0900 analy 유창조 d0512f5
+[rnooyaho] Tue May 17 18:21:33 2022 +0900 다이어그램 수정 fa4995d
+[rnooyaho] Tue May 17 17:57:45 2022 +0900 다이어그램 수정 44c9ffe
+[rnooyaho] Tue May 17 04:26:55 2022 +0900 다이어그램 수정 d062c7f
+[rnooyaho] Sun May 15 16:01:51 2022 +0900 파일이름 변경 d59a1fc
+[rnooyaho] Sun May 15 15:55:46 2022 +0900 Merge branch 'main' of https://github.com/rnooyaho/SE 3577ee4
+[rnooyaho] Sun May 15 15:55:04 2022 +0900 정지환 과제2  usecasedescription & communication diagram 7409253
+[“YCJhongik”] Sun May 15 15:52:09 2022 +0900 usecasedia, commu_dia_유창조 64343ef
+[Ryu-minji] Sun May 15 04:01:47 2022 +0900 hw2 usecasedescription communicationDiagram 유민지 ff1de0c
+[rnooyaho] Thu May 12 18:49:11 2022 +0900 HW2 Requirement list & Use case diagram 213405f
+[“YCJhongik”] Sun May 1 22:49:07 2022 +0900 유창조 DIAGRAM 재업 4384a05
+[“YCJhongik”] Sun May 1 22:43:22 2022 +0900 과제 1 레포트 1121b3a
+[“YCJhongik”] Sun May 1 22:42:24 2022 +0900 usecase UI c803f7f
+[“YCJhongik”] Sun May 1 22:40:42 2022 +0900 usecase desc 재업 79ad0a6
+[“YCJhongik”] Sun May 1 22:40:12 2022 +0900 usecase diagram 재업 76121ea
+[rnooyaho] Sun May 1 22:11:34 2022 +0900 Merge branch 'main' of https://github.com/rnooyaho/SE a90aeca
+[rnooyaho] Sun May 1 22:09:33 2022 +0900 Merge branch 'mybranch' 303b417
+[Ryu-minji] Sun May 1 22:09:17 2022 +0900 6조 유민지 최종보고서 41f5f23
+[rnooyaho] Sun May 1 22:08:59 2022 +0900 소프트웨어공학 과제1 보고서 ca3e574
+[Ryu-minji] Sun May 1 21:57:49 2022 +0900 유민지 UIdesign 수정 a41a3eb
+[Ryu-minji] Sun May 1 20:20:52 2022 +0900 Add files via upload defb95b
+[rnooyaho] Sun May 1 19:41:44 2022 +0900 Merge branch 'mybranch' e6b4165
+[rnooyaho] Sun May 1 19:41:30 2022 +0900 정지환 ui screen design & usecase description faf775f
+[Ryu-minji] Fri Apr 29 02:30:33 2022 +0900 추가된_descriptions_유민지 ddf9456
+[YCJhongik] Wed Apr 27 16:13:31 2022 +0900 Add files via upload c6dee1d
+[rnooyaho] Wed Apr 27 14:57:40 2022 +0900 정지환 usecasediagram & usecasedescription bda9adc
+[rnooyaho] Wed Apr 27 14:47:17 2022 +0900 정지환 usecasediagram e27d39d
+[Ryu-minji] Tue Apr 26 18:42:55 2022 +0900 유민지_usecasediagram_description_버전1 96a163c
+[rnooyaho] Tue Apr 26 18:42:22 2022 +0900 usecase diagram a771445
+[Ryu-minji] Mon Apr 25 03:28:02 2022 +0900 practice2 fdeec8f
+[rnooyaho] Sun Apr 24 05:15:17 2022 +0900 첫번쨰 버전 f51b38b
